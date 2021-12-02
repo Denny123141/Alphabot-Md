@@ -3,13 +3,13 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done. Ok`
 }
 
 exports.err = () => {
     return `‼️Fitur Sedang Error‼️
 
-⏳Sedang melapor bug fitur ke owner-sama⏳`
+⏳Sedang melapor bug fitur ke Owner⏳`
 }
 
 exports.wrongFormat = (prefix) => {
@@ -25,11 +25,11 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `⚠️ Command ini khusus Owner-sama! ⚠️`
+    return `⚠️ Command ini khusus Owner! ⚠️`
 }
 
 exports.doneOwner = () => {
-    return `✔  ️Sudah selesai, Owner-sama~`
+    return `✔  ️Sudah selesai, Owner`
 }
 
 exports.groupOnly = () => {
@@ -92,7 +92,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ > evaluate
 ├ $ exec
 ├ ${prefix}join link
-├ ${prefix}setppbot (tag/send image)
+├ ${prefix}setppbot
 └──────
 
 ⚙️ *GROUP*
@@ -173,8 +173,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Xfarr api
 ├ Fatih A.
 ├ ZeeoneOfc
-├ Baileys#multi-device
-├ And all support
+├ And allI
 └──────
 
     `
@@ -194,10 +193,10 @@ Sanksi: *❎ SOFT BLOCK*
 Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
+➡️ Karena API-Quota terbatas
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
+➡️ Script ini private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk sementara bot dalam status free to add.
