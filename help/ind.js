@@ -173,7 +173,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Xfarr api
 ├ Fatih A.
 ├ ZeeoneOfc
-├ And allI
+├ And I
 └──────
 
     `
@@ -210,28 +210,21 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan KenzBot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan KenzBot
 😖🙏
 
 
     `
-}
-exports.source = (prefix) =>{
-return`*── 「 SOURCE 」 ──*
-
-Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
-`
 }
 exports.tos = (ownerNumber, prefix) => {
     return `
 *── 「 DONATE 」 ──*
 
 Hai 👋
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+Kalian bisa mendukung saya agar bot ini tetap up to date dengan
+ 082133048747 (OVO/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
